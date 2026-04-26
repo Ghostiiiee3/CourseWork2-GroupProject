@@ -1,4 +1,4 @@
-# CoursewWork2-GroupProject
+# CourseWork2-GroupProject
 Group Project 60%
 
 To run the system:
