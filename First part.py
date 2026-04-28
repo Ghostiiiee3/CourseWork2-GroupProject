@@ -1,7 +1,7 @@
 class User:
 
     def __init__(self, name, role):
-        # Store the user's name and role
+        #store the user's name and role
         self.name = name
         self.role = role
 
