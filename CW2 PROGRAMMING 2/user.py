@@ -1,0 +1,10 @@
+class User:
+
+    def __init__(self, name, role):
+        # Store the user's name and role
+        self.name = name
+        self.role = role
+
+    # Display user information
+    def display_user(self):
+        return f"{self.role}: {self.name}"
