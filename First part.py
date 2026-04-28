@@ -5,6 +5,6 @@ class User:
         self.name = name
         self.role = role
 
-    # Display user information
+    #display user information
     def display_user(self):
         return f"{self.role}: {self.name}"
